@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sesiones</string>
+    <string name="useremail_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="button_text">Iniciar Sesión</string>
+    <string name="logout_text">Cerrar Sesión</string>
+    <string name="toTest_text">Ir a TestActivity</string>
+    <string name="test_activity_title">Test Activity</string>
+</resources>
